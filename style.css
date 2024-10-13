@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1 {
+    border: 1px solid blue;
+   width: 200px;
+   height: 200px;
+   display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.box2 {
+    border: 1px solid blue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.box3 {
+    border: 1px solid blue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.box4 {
+    border: 1px solid blue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}

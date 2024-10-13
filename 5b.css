@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1 {
+    border: 1px solid blue;
+   width: 200px;
+   height: 200px;
+   
+   display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.box2 {
+    border: 1px solid blue;
+    flex-grow: 1;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.box3 {
+    border: 1px solid blue;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

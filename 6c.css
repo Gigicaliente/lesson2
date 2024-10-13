@@ -1,0 +1,46 @@
+.block {
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    align-items: center;
+    padding: 5px;
+
+}
+
+
+
+.box1 {
+   
+    width: 20%;
+    height: 20%;
+    background-color: red;
+    display: flex;
+    align-items: start;
+    
+}
+ 
+
+.box2 {
+
+    width: 20%;
+    height: 20%;
+    background-color: red; 
+    display: flex;
+    align-items: end;
+    
+}
+
+
+
+.box3 {
+    width: 20%;
+    height: 20%;
+    background-color: red;
+    display: flex;
+    justify-content: end;     
+}
+
+

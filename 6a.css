@@ -1,0 +1,14 @@
+.block {
+    width: 300px;
+    height: 300px;
+    border: 1px solid aqua;
+    background-color: aqua;
+   position: relative;
+
+.text {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-weight: bold;
+    font-size: x-large;
+}
